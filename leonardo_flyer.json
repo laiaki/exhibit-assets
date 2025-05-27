@@ -1,12 +1,5 @@
 {
-  "id": "exhibit_001",
-  "title": "¹F¤å¦èªº­¸¦æ¾¹",
-  "description": "³o¬O¹F¤å¦è³]­pªº­¸¦æ¾¹¼Ò«¬¡A¤Ï¬M¤F¨ä¹ï©ó­¸¦æªº·Q¹³¡C",
-  "author": "§õ¶ø¯Ç¦h¡P¹F¤å¦è",
-  "year": "1485",
-  "model_url": "https://example.com/models/leonardo_flyer.glb",
-  "thumbnail_url": "https://example.com/thumbnails/leonardo_flyer.jpg",
-  "text_url": "https://example.com/texts/leonardo_flyer.html",
-  "language": "zh-TW",
-  "version": "1.0"
+  "title": "ä½œå“åç¨±",
+  "description": "é€™æ˜¯å±•å“çš„ä»‹ç´¹å…§å®¹ã€‚",
+  "model_url": "https://example.com/models/ornitottero.glb"
 }
