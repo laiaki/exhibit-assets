@@ -1,0 +1,12 @@
+{
+  "id": "exhibit_001",
+  "title": "達文西的飛行器",
+  "description": "這是達文西設計的飛行器模型，反映了其對於飛行的想像。",
+  "author": "李奧納多·達文西",
+  "year": "1485",
+  "model_url": "https://example.com/models/leonardo_flyer.glb",
+  "thumbnail_url": "https://example.com/thumbnails/leonardo_flyer.jpg",
+  "text_url": "https://example.com/texts/leonardo_flyer.html",
+  "language": "zh-TW",
+  "version": "1.0"
+}
