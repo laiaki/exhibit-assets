@@ -16,7 +16,7 @@
 
 # 使用流程
 1. 手機應用程式掃描展品旁的 QR Code。
-2. QR Code 對應的 URL 指向 model.json（如 https://.../dragon/model.json）。
+2. QR Code 對應的 URL 指向 model.json
 3. 應用程式從 JSON 中取得：
    - 模型檔案位置（GLB 或 GLTF）
    - 展品名稱與介紹文字
